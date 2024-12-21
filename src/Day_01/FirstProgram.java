@@ -1,6 +1,8 @@
 package Day_01;
 
-public class firstProgram {
+import java.util.Scanner;
+
+public class FirstProgram {
 
     /* Every File ends with .java is a class . class is basically named group of properties and functions
      main class (firstProgram ) in the this file is must be a public class
@@ -28,6 +30,7 @@ public class firstProgram {
                   we will pass it will stored in array .
                   like , args[0] , args[1] , .. and so on.
          */
+
 
     }
 }
