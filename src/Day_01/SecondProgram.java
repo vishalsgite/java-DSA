@@ -10,6 +10,8 @@ public class SecondProgram {
         System.out.println(sc.next());      //it will print first string of line , till it will find for space
         System.out.println(sc.nextLine());  //it will take whole string
 
+        System.out.print("Enter Roll no : ");
+        System.out.println("Your Roll Number is : "+sc.nextInt());
 
          /* INPUT IN JAVA
 

@@ -6,7 +6,7 @@ public class ThirdProgram {
 
     public static void main(String[] args) {
 
-        int rollNo = 47;
+        int rollNo = 47;         // rollNo = Identifiers &&& 47 = Literals
         char ch = 'r';
         float marks = 98.54f;
         double largeDecimalNumbers = 4944551.4984848;
